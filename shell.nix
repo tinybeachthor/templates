@@ -5,6 +5,4 @@ with pkgs;
 mkShell {
   buildInputs = [
   ];
-  shellHook = ''
-  '';
 }
